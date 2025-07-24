@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+oandapyV20
+gspread
+google-oauth2-service-account
+pandas

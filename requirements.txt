@@ -6,3 +6,4 @@ google-auth
 google-auth-oauthlib
 PyNaCl
 Flask
+six

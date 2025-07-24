@@ -3,5 +3,6 @@ python-dotenv
 oandapyV20
 gspread
 google-auth
+google-auth-oauthlib
 PyNaCl
 Flask

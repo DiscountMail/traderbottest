@@ -1,10 +1,9 @@
-# requirements.txt (Corrected Version)
+# requirements.txt (Final Correct Version)
 
 discord.py
 python-dotenv
 oandapyV20
 gspread
-google-auth-oauthlib
-google-auth-gspread
+google-auth
 PyNaCl
 Flask

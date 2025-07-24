@@ -1,5 +1,3 @@
-# requirements.txt (Final Correct Version)
-
 discord.py
 python-dotenv
 oandapyV20
